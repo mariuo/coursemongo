@@ -1,4 +1,4 @@
-package com.devsuperior.hreurekaserver;
+package com.devsuperior.coursemongo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
